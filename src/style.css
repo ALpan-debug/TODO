@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+
+body{
+  background-color: whitesmoke;
+  background-image: url(image/jhg.jpg);
+  background-size:cover
+
+}
